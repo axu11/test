@@ -4,4 +4,5 @@ function function_name(argument) {
 	var z = 20;
 	var two = 2;
 	var ten = 10;
+	var three = 3;
 }
